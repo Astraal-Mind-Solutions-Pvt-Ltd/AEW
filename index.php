@@ -9,7 +9,7 @@ include_once('header.php');
         <div class="carousel-inner">
 <!-- Slide 1 -->
 <div class="carousel-item active">
-    <img class="w-100" src="img/e-bikes/ValentineDay/v7.png" alt="Electric Scooters and E-Motorcycles in Goa">
+    <img class="w-100" src="img/e-bikes/ValentineDay/bikes.png" alt="Electric Scooters and E-Motorcycles in Goa">
     <div class="carousel-caption d-flex align-items-center">
         <div class="container">
             <div class="row align-items-center justify-content-center justify-content-lg-start">
@@ -39,7 +39,7 @@ include_once('header.php');
 
 <!-- Slide 2 -->
 <div class="carousel-item">
-    <img class="w-100" src="img/e-bikes/ValentineDay/v6.png" alt="Electric Two Wheelers and EV Bikes in Goa">
+    <img class="w-100" src="img/e-bikes/ValentineDay/bikes1.png" alt="Electric Two Wheelers and EV Bikes in Goa">
     <div class="carousel-caption d-flex align-items-center">
         <div class="container">
             <div class="row align-items-center justify-content-center justify-content-lg-start">
