@@ -9,7 +9,7 @@ include_once('header.php');
         <div class="carousel-inner">
 <!-- Slide 1 -->
 <div class="carousel-item active">
-    <img class="w-100" src="img/e-bikes/ValentineDay/pic2.jpg" alt="Electric Scooters and E-Motorcycles in Goa">
+    <img class="w-100" src="img/e-bikes/ValentineDay/bikes.png" alt="Electric Scooters and E-Motorcycles in Goa">
     <div class="carousel-caption d-flex align-items-center">
         <div class="container">
             <div class="row align-items-center justify-content-center justify-content-lg-start">
@@ -18,7 +18,7 @@ include_once('header.php');
                         // Electric Mobility Solutions //
                     </h6>
                     <h1 class="display-3 text-white mb-4 pb-3 animated slideInDown">
-                        Smart Electric Scooters & E-Motorcycles
+                        Smart Electric Scoters & E-Motorcycles
                     </h1>
                     <p class="text-white mb-4 animated slideInDown">
                         Ride the next generation of electric scooters, e-motorcycles, and battery-powered bikes engineered for modern Indian roads. 
@@ -39,7 +39,7 @@ include_once('header.php');
 
 <!-- Slide 2 -->
 <div class="carousel-item">
-    <img class="w-100" src="img/e-bikes/ValentineDay/pic3.jpg" alt="Electric Two Wheelers and EV Bikes in Goa">
+    <img class="w-100" src="img/e-bikes/ValentineDay/bikes1.png" alt="Electric Two Wheelers and EV Bikes in Goa">
     <div class="carousel-caption d-flex align-items-center">
         <div class="container">
             <div class="row align-items-center justify-content-center justify-content-lg-start">
