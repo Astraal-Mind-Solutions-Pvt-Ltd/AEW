@@ -7,7 +7,7 @@ include_once('header.php');
 
 
 <!-- Page Header Start -->
-<div class="container-fluid page-header mb-5 p-0" style="background-image: url(https://d1c7r62yjcq2bd.cloudfront.net/service/River-20251007-Service%2002.webp);">
+<div class="container-fluid page-header mb-5 p-0" style="background-image: url(https://images.unsplash.com/photo-1753563820079-65ac9ad6f37d?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg);">
     <div class="container-fluid page-header-inner py-5">
         <div class="container text-center">
             <h1 class="display-3 text-white mb-3 animated slideInDown">E-Bikes</h1>
